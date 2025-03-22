@@ -1,4 +1,7 @@
-package org.example.sobrescritaSobrecarga;
+package org.example.sobrescritaSobrecarga.test;
+
+import org.example.sobrescritaSobrecarga.domain.ContaCorrente;
+import org.example.sobrescritaSobrecarga.domain.ContaPoupanca;
 
 public class TesteSobrescritaSobrecarga {
     public static void main(String[] args) {

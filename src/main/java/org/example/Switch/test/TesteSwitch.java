@@ -1,4 +1,8 @@
-package org.example.Switch;
+package org.example.Switch.test;
+
+import org.example.Switch.domain.Conta;
+import org.example.Switch.domain.ContaCorrente;
+import org.example.Switch.domain.ContaPoupanca;
 
 public class TesteSwitch {
     public static void main(String[] args) {

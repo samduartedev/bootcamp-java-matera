@@ -1,4 +1,4 @@
-package org.example.Switch;
+package org.example.Switch.domain;
 
 public class ContaPoupanca implements Conta{
     private final String tipoConta;

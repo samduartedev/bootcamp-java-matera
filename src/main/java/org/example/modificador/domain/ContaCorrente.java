@@ -1,4 +1,4 @@
-package org.example.modificador;
+package org.example.modificador.domain;
 
 public class ContaCorrente {
     public static void main(String[] args) {

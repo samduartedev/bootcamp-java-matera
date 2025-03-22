@@ -1,4 +1,4 @@
-package org.example.sobrescritaSobrecarga;
+package org.example.sobrescritaSobrecarga.domain;
 
 import lombok.Getter;
 
@@ -6,7 +6,6 @@ import lombok.Getter;
 public class Conta {
     protected Double saldo;
     protected Double taxaOperacao;
-
 
     public Conta(Double saldo){
         this.saldo = saldo;

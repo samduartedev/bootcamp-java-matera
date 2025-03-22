@@ -1,4 +1,4 @@
-package org.example.sobrescritaSobrecarga;
+package org.example.sobrescritaSobrecarga.domain;
 
 public class ContaPoupanca extends Conta{
     public ContaPoupanca(Double saldo){

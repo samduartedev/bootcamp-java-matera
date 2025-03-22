@@ -14,7 +14,6 @@ public class Conta {
         if (this.saldo <=0 || this.saldo < valorADescontar){
             throw new Exception("Saldo insuficiente");
         }
-
         if (valor==0){
             throw new ExcecaoValorParaSaqueZerado();
         }

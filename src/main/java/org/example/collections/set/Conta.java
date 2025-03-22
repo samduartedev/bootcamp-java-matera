@@ -20,6 +20,4 @@ public class Conta {
      Conta conta = (Conta) obj;
      return this.numeroConta.equals((getNumeroConta()));
  }
-
-
 }

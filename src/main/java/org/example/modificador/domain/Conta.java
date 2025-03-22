@@ -1,4 +1,4 @@
-package org.example.modificador;
+package org.example.modificador.domain;
 
 public class Conta {
     private Double saldo;

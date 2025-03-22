@@ -16,6 +16,5 @@ public class TestSet {
             System.out.println(conta);
             System.out.println("Hash -> " + conta.hashCode());
         });
-
     }
 }

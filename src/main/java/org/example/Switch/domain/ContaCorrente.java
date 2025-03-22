@@ -1,4 +1,4 @@
-package org.example.Switch;
+package org.example.Switch.domain;
 
 public class ContaCorrente implements Conta{
     private final String tipoConta;

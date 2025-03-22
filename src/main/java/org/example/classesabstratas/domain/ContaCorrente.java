@@ -1,4 +1,4 @@
-package org.example.abstratas;
+package org.example.classesabstratas.domain;
 
 public class ContaCorrente extends Conta {
     @Override

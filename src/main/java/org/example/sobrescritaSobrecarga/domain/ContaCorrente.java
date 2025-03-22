@@ -1,10 +1,9 @@
-package org.example.sobrescritaSobrecarga;
+package org.example.sobrescritaSobrecarga.domain;
 
 public class ContaCorrente extends Conta{
     public ContaCorrente(Double saldo){
         super(saldo);
     }
-
 
     public void sacar(Double valor) {
         this.saldo -= valor;

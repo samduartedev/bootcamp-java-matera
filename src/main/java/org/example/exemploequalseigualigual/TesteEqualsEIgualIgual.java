@@ -1,4 +1,4 @@
-package org.example.ExemploEqualsEIgualIgual;
+package org.example.exemploequalseigualigual;
 
 public class TesteEqualsEIgualIgual {
     public static void main(String[] args) {

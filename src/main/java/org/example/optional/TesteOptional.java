@@ -14,8 +14,6 @@ public class TesteOptional {
         } else {
             System.out.println("Não foi localizada a conta");
         }
-
-
     }
 
     public static Conta obtemConta(){
