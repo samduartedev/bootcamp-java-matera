@@ -35,15 +35,19 @@ Além disto é bom ter um editor para trabalhar com o código como [IntelliJ](ht
 # Clone este repositório
 $ git clone <https://github.com/samduartedev/bootcamp-java-matera.git>
 
+# No intellij irá aparecer uma notificação para carregar o Maven, Clique em "Load".
+
 # Acesse a pasta do projeto no terminal/cmd
+
 $ cd bootcamp-java-matera
 
 # Vá para a pasta src
 $ cd src
 
-#Execute as dependências
-$ mvn clean install
+# Agora é só explorar as pastas e executar os códigos no intellij.
 ```
+
+
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
