@@ -3,14 +3,18 @@
 </h1>
 <p align="center"> Este repositório contém as atividades e projetos desenvolvidos durante o bootcamp de desenvolvimento Java ministrado pelo Instituto Matera. Aqui, você encontrará códigos, anotações e recursos utilizados durante as aulas 👨‍💻 </p>
 
-## 📚 Sobre o Bootcamp e o Instituto
+## Sobre o Bootcamp e o Instituto 
 O Instituto Matera é uma organização sem fins lucrativos fundada pelos sócios da empresa Matera, com o objetivo de capacitar pessoas por meio da educação acessível, buscam potencializar a educação baseada em 7 valores: educação, ética, equidade, inovação, comprometimento, orgulho e cooperação.
 
 <p align="center">
- <a href="#estruturadorepositorio">Estrutura do Repositório</a> •
+ <a href="#sobre-o-bootcamp-e-o-instituto">Sobre o Bootcamp e o Instituto</a> •
+ <a href="#estrutura-do-repositorio">Estrutura do Repositório</a> • 
+ <a href="#pré-requisitos">Pré-requisitos</a> • 
+ <a href="#rodando-o-código">Rodando o código</a> • 
+ <a href="#tecnologias">Tecnologias</a>
 </p>
 
-## 📂 Estrutura do Repositório  
+## Estrutura do Repositorio  
 
 O repositório está organizado da seguinte forma:
 
@@ -25,7 +29,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Java](https://www.oracle.com/br/java/technologies/downloads/), [lombok](https://projectlombok.org/download),[Maven](https://maven.apache.org/download.cgi).
 Além disto é bom ter um editor para trabalhar com o código como [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/?section=windows).
 
-### 🎲 Rodando o código
+### Rodando o código
 
 ```bash
 # Clone este repositório
@@ -40,7 +44,7 @@ $ cd src
 #Execute as dependências
 $ mvn clean install
 ```
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
